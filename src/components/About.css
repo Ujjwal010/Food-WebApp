@@ -1,0 +1,40 @@
+.about{
+    text-align: center;
+}
+
+.line{
+   
+   border-top: 1px;
+   
+}
+
+.about_container{
+    padding: 32px 16px 32px 16px;
+}
+.about_me{
+    font-weight: 400;
+    font-size: 24px;
+    margin-bottom:56px ;
+}
+
+.about_title{
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 32px;
+}
+
+.about_title2{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 32px;
+    font-style: italic;
+
+}
+
+.about_des{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 140px;
+    
+
+}

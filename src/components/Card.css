@@ -1,0 +1,14 @@
+
+.card{
+    width:271px;
+    margin-right: 17px;
+
+}
+.card_image{
+    width:271px;
+    height:407px
+}
+.card_title{
+      font-size: 24px;
+      font-weight: 400;
+}

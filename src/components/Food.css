@@ -1,0 +1,6 @@
+.food_item{
+    display: flex;
+    padding:16px;
+    width:1168px;
+    margin-bottom: 30px;
+}
